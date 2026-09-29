@@ -1,5 +1,7 @@
-export const modes = {baseline:'Phalanges · 2 zones',finger_count:'Finger combinations',conductor:'Conductor',air_keys:'Air keys'};
+export const modes = {baseline:'Phalanges · 2 zones',finger_count:'Finger combinations',conductor:'Conductor',air_keys:'Air keys',body:'Body percussion'};
+export const journeyModes = ['baseline','finger_count','conductor','air_keys'];
 export const guides = {
+ body:'Keep elbows and hands in view. Tap your hands together, or tap across the opposite inner forearm. Separate between taps. Gentle contact is enough.',
  baseline:'Open your thumb, then touch a finger. Cyan tip = high note; lilac lower segments = low note. Hold to sustain.',
  finger_count:'Hold any finger shape to play. Every five-finger combination has its own note—including a fist. Hide your hand or pause to silence.',
  conductor:'Choose a wide lane with your palm. Lift until READY, then move down through the dashed strike line.',
